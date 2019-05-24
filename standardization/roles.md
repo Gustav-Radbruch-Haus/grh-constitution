@@ -7,7 +7,7 @@ Accountable for:
 - Accepting requests voluntarily
 - Agreeing to be project owner for requests
 
-### Team lead
+### Lead Link
 Accountable for
 - Representing the team outside of the team
 - Enhancing the team’s velocity
