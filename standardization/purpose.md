@@ -2,7 +2,7 @@
 The standardisation team works with distributed accountability and resolves requests in a project planning manner.
 
 ## Purpose
-Ease the process for every other team by making processes, roles and accountabilities explicit.
+Ease the process for every other team by making processes, [roles](roles.md) and accountabilities explicit.
 
 ## Values
 - Clarity and Transparency of information

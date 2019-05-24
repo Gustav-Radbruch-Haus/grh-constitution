@@ -1,7 +1,7 @@
 ## Teams
 
 ### SHC teams
-- [Standardization][standardization/purpose.md]
+- [Standardization](standardization/purpose.md)
 - IT
 - Finance
 - Design
