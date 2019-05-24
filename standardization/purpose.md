@@ -5,11 +5,13 @@ The standardisation team works with distributed accountability and resolves requ
 Ease the process for every other team by making processes, roles and accountabilities explicit.
 
 ## Values
-- Transparency of all information
+- Clarity and Transparency of information
 - Focus on human development
-- Open minded
+- Open mind
+- Autonomy, through accountability, through trust
 
 ## Rules
 - All requests are handled as projects
 - All team members are voluntarily accepting requests
 - As soon as a request is accepted, it becomes a project and the accepter becomes the project owner
+- Information are transparent and clear
